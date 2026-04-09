@@ -185,7 +185,7 @@ Suggestions are ranked by:
 
 ---
 
-## 📊 Free Datasets Used
+## 📊 Datasets Used
 
 1. **Food Database** — Custom CSV with 50+ items (USDA-based values)
 2. **Baby Growth** — WHO fetal growth standards (weeks 4-40)
@@ -201,12 +201,5 @@ Suggestions are ranked by:
 - [ ] Cloud sync capability
 - [ ] Mobile companion app (Android)
 
----
 
-## 📄 License
 
-This project is open source and free to use for educational purposes.
-
----
-
-*Built with ❤️ for expecting mothers*
