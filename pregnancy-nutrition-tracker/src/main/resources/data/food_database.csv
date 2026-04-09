@@ -1,0 +1,51 @@
+Name,Category,Calories,Protein,Iron,Calcium,ServingSize,ServingUnit
+Egg (Boiled),Protein,155,13.0,1.2,50,100,g
+Milk (Whole),Dairy,61,3.2,0.03,113,100,ml
+Spinach (Raw),Vegetable,23,2.9,2.7,99,100,g
+Banana,Fruit,89,1.1,0.3,5,100,g
+Chicken Breast,Protein,165,31.0,1.0,15,100,g
+Brown Rice,Grain,112,2.6,0.4,10,100,g
+Lentils (Cooked),Legume,116,9.0,3.3,19,100,g
+Yogurt (Plain),Dairy,59,10.0,0.05,110,100,g
+Salmon,Protein,208,20.0,0.8,12,100,g
+Sweet Potato,Vegetable,86,1.6,0.6,30,100,g
+Broccoli,Vegetable,34,2.8,0.7,47,100,g
+Almonds,Nut,579,21.0,3.7,269,100,g
+Orange,Fruit,47,0.9,0.1,40,100,g
+Tofu,Protein,76,8.0,5.4,350,100,g
+Oatmeal,Grain,68,2.4,0.6,9,100,g
+Cheese (Cheddar),Dairy,403,25.0,0.7,721,100,g
+Apple,Fruit,52,0.3,0.1,6,100,g
+Kidney Beans,Legume,127,8.7,2.9,28,100,g
+Carrot,Vegetable,41,0.9,0.3,33,100,g
+Whole Wheat Bread,Grain,247,13.0,3.6,107,100,g
+Peanut Butter,Nut,588,25.0,1.9,43,100,g
+Dates (Dried),Fruit,277,1.8,0.9,64,100,g
+Quinoa,Grain,120,4.4,1.5,17,100,g
+Chickpeas (Cooked),Legume,164,8.9,2.9,49,100,g
+Avocado,Fruit,160,2.0,0.6,12,100,g
+Beetroot,Vegetable,43,1.6,0.8,16,100,g
+Pomegranate,Fruit,83,1.7,0.3,10,100,g
+Cottage Cheese (Paneer),Dairy,265,18.3,0.2,208,100,g
+Fish (Tilapia),Protein,96,20.0,0.6,14,100,g
+Soybean (Cooked),Legume,173,16.6,5.1,102,100,g
+Kale,Vegetable,49,4.3,1.5,150,100,g
+Walnut,Nut,654,15.0,2.9,98,100,g
+Mango,Fruit,60,0.8,0.2,11,100,g
+Turkey Breast,Protein,135,30.0,1.4,11,100,g
+Greek Yogurt,Dairy,97,9.0,0.1,100,100,g
+Pumpkin Seeds,Nut,559,30.0,8.8,46,100,g
+Mushroom,Vegetable,22,3.1,0.5,3,100,g
+Sardine,Protein,208,25.0,2.9,382,100,g
+Asparagus,Vegetable,20,2.2,2.1,24,100,g
+Papaya,Fruit,43,0.5,0.3,20,100,g
+Flaxseed,Nut,534,18.0,5.7,255,100,g
+Green Peas,Vegetable,81,5.4,1.5,25,100,g
+Ragi (Finger Millet),Grain,328,7.3,3.9,344,100,g
+Jaggery,Other,383,0.4,11.0,85,100,g
+Drumstick (Moringa),Vegetable,64,9.4,4.0,185,100,g
+Amla (Indian Gooseberry),Fruit,44,0.9,0.3,25,100,g
+Fenugreek Leaves,Vegetable,49,4.4,1.9,395,100,g
+Sesame Seeds,Nut,573,17.7,14.6,975,100,g
+Ghee,Dairy,900,0.0,0.0,0,100,g
+Coconut Water,Beverage,19,0.7,0.3,24,100,ml
